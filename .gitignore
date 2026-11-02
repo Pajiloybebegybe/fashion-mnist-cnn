@@ -1,0 +1,19 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Датасет (скачается сам при запуске)
+data/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Настройки PyCharm
+.idea/
+
+# Системный мусор
+.DS_Store
+Thumbs.db
