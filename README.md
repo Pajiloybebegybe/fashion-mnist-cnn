@@ -69,7 +69,7 @@ fashion-mnist-cnn/
 
 ```bash
 # 1. Клонировать репозиторий (или распаковать архив)
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone <https://github.com/Pajiloybebegybe/fashion-mnist-cnn.git>
 cd fashion-mnist-cnn
 
 # 2. Создать виртуальное окружение
